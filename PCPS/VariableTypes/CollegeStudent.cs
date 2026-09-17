@@ -4,8 +4,6 @@ using System.Text;
 
 namespace PCPS.VariableTypes
 {
-    using System;
-
     class CollegeStudent
     {
         // Static Variable

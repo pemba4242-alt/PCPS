@@ -35,7 +35,7 @@ namespace PCPS
             //Human human = new Human();
             //human.publicNumber = 16;
             //human.DisplayPublicNumber();
-            //human.protectedAge = 20; // only accessible within the class and derived classes
+            //human.protectedNumber = 20; // only accessible within the class and derived classes
 
 
             //Student student = new Student();
