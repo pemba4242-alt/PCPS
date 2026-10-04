@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="PCPS/PCPS.csproj" />
+  <Project Path="WinFormsApp/WinFormsApp.csproj" Id="dba9c3da-661f-451e-9a5b-6f76d8f841f9" />
 </Solution>
